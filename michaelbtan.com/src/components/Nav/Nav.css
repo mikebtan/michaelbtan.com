@@ -1,0 +1,25 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  background-color: rgb(53,54,58);
+}
+
+.logo {
+  color: whitesmoke;
+  font-size: 52px;
+  margin-left: 6vw; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.right_nav  {
+  margin-right: 6vw;
+}
+
+.right_nav_content  {
+  text-decoration: none;
+  padding: 8px;
+  color: white
+}
