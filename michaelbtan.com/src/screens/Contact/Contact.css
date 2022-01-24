@@ -1,6 +1,31 @@
-.input_form {
+.contact_container {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 55vh;
+  margin-top: 20vh;
+}
+
+.contact_form {
+  display: flex;
+  flex-direction: column; 
+}
+
+.form_inputs  {
+  width: 30vw;
+  padding: 5px;
+}
+
+.submit_form_button  {
+  margin-top: 10px;
+  width: 15vw;
+}
+
+.contact_box  {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: #FFBD58;
 }

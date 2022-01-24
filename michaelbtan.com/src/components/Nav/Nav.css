@@ -7,7 +7,7 @@
 }
 
 .logo {
-  color: whitesmoke;
+  color: #f5f5f5;
   font-size: 52px;
   margin-left: 6vw; 
   text-decoration: none;
@@ -21,5 +21,5 @@
 .right_nav_content  {
   text-decoration: none;
   padding: 8px;
-  color: white
+  color: #f5f5f5
 }
