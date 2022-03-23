@@ -1,0 +1,31 @@
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2%;
+}
+
+.project_cards  {
+  display: flex;
+  text-align: center;
+  overflow-x: auto;
+}
+
+.project_card {
+  padding: 5%;
+  margin: 2%;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+.project_img  {
+  border: 1px solid black;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+.project_link_logos {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+}

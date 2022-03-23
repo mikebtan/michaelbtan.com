@@ -26,7 +26,7 @@ export default function Nav() {
           <Link
             className="nav_links"
             activeClass="active"
-            to="roadmap"
+            to="projects"
             spy={true}
             smooth={true}
             offset={-75}

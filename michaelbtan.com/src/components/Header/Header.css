@@ -1,11 +1,12 @@
 .header {
   min-height: 500px;
-  border: 1px black solid;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .header_container {
   padding-top: 10%;
   width: 80%;
+  line-height: 1.5;
 }
