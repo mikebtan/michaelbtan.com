@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
 export default function About() {
@@ -12,7 +12,7 @@ export default function About() {
           <h1>About Me</h1>
           <h3>I am software engineer interested in web3 and solving problems using technology</h3>
           <br />
-          <p>Previously, I had worked as the developer on 2 NFT projects - <b>Onesises World</b> and <b>Kevin Pals</b>, which I had generated the collection of avatars, wrote and deployed the smart contract, instituted a merkle tree for whitelist validation, and built the minting dapp</p>
+          <p>Previously, I had worked as the developer on 2 NFT projects - <b>Onesises World</b> and <b>Kevin Pals</b>, which I had generated the collection of avatars, wrote and deployed an erc721A smart contract, instituted a merkle tree for whitelist validation, and built the minting dapp</p>
           <br />
           <p>I am also a collector of limited sneakers, rare basketball/pokemon cards, art, and wine</p>
           <br />

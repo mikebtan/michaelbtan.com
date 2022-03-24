@@ -21,15 +21,14 @@
 }
 
 .nav_title  {
-  font-family: 'Varela Round', sans-serif;
   color: whitesmoke;
+  font-style: italic;
   cursor: pointer;
 }
 
 .nav_links  {
   color: whitesmoke;
   margin: 20px;
-  font-family: 'Varela Round', sans-serif;
   font-size: 20px;
   cursor: pointer;
 }

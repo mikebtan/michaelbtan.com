@@ -7,15 +7,17 @@
 
 .project_cards  {
   display: flex;
+  justify-content: start;
+  width: 100vw;
   text-align: center;
-  overflow-x: auto;
+  overflow-x: scroll;
 }
 
 .project_card {
   padding: 5%;
   margin: 2%;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-
+  border-radius: 4px;
 }
 
 .project_img  {

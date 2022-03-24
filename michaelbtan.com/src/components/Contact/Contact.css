@@ -24,6 +24,8 @@
 .contact_inputs {
   width: 30em;
   margin: 0.8em;
+  border-radius: 4px;
+  padding: 0.2em;
 }
 
 .contact_input_box  {
@@ -31,11 +33,23 @@
   height: 20em;
   margin: 0.8em;
   resize: none;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 4px;
 }
 
 .contact_button {
   width: 15em;
   margin: 0.8em auto;
+  cursor: pointer;
+  background-color: #FFBD58;
+  padding: 0.2em;
+  border: 0;
+  border-radius: 25px;
+  font-weight: 600;
+}
+
+.contact_button:hover  {
+  background-color: #f8cb86;
 }
 
 /* @media (max-width: 950px) {

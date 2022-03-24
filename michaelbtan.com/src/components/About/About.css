@@ -1,5 +1,5 @@
 .about  {
-  height: 65vh;
+  max-height: 1200px;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -13,6 +13,8 @@
 
 .about_info {
   line-height: 1.8;
+  margin-bottom: 2em;
+  margin-right: 2em;
 }
 
 .about_img {
@@ -21,4 +23,11 @@
   border-radius: 50%;
   border: 2px black solid;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-bottom: 5em;
+}
+
+@media (max-width: 950px) {
+  .about_container  {
+    flex-direction: column;
+  }
 }
