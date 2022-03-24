@@ -18,7 +18,7 @@ export default function About() {
           <br />
           <p><b>Currently, I am open to full-time software engineer roles.</b></p>
         </div>
-        <Carousel showThumbs={false} showIndicators={false} autoPlay={true} infiniteLoop={true} showStatus={false} width="350px">
+        <Carousel className="carousel" showThumbs={false} showIndicators={false} autoPlay={true} infiniteLoop={true} showStatus={false} width="350px">
           <div>
             <img className="about_img" src="https://i.imgur.com/2RDAZGO.jpg" alt="profile pic" />
           </div>

@@ -62,12 +62,12 @@ export default function NavMobile() {
                 duration={500}
             >Contact</Link>  
           <div className="social_links">
-          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://discord.gg/s3XDqjPcME">
-            <img className="social_logos" src="https://uploads-ssl.webflow.com/6209c8427d75bce1a707e4c8/6216434fca1ed8b80d656018_Discord-p-500.png" alt="Discord"></img></a>
-          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="/">
-            <img className="social_logos" src="https://i.imgur.com/ySKZy2v.png" alt="Opensea"></img></a>
-          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://twitter.com/OnesiesWorldnft">
-            <img className="social_logos" src="https://uploads-ssl.webflow.com/6209c8427d75bce1a707e4c8/621643b8ceccf879130c06dc_Twitter.png" alt="Twitter"></img></a>
+          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/michaelbtan/">
+            <img className="social_logos" src="https://i.imgur.com/pdBRIGi.png" alt="Linkedin"></img></a>
+          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://github.com/michaelbtan">
+            <img className="social_logos" src="https://i.imgur.com/fnifTNN.png" alt="Github"></img></a>
+          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://twitter.com/tanmichael74">
+            <img className="social_logos" src="https://i.imgur.com/DhUGreh.png" alt="Twitter"></img></a>
           </div>
         </div>      
         }
