@@ -7,7 +7,7 @@ export default function Header() {
     <div className="header">
       <div className="header_container">
         <h1 className="header_title">Hi, I'm Michael B. Tan <span className="wave">👋</span></h1>
-        <h2>I am a software developer, chef, and collector of cool stuff!</h2>
+        <h2 className="header_sub_title">I am a software developer, chef, and collector of cool stuff!</h2>
       </div>
     </div>
   )
