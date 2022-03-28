@@ -23,7 +23,7 @@ export default function Projects() {
           <br />
           <h5>Minting Dapp, Gas Optimized ERC721A Contract, and Merkle Tree for Whitelist</h5>
           <br />
-          <h5>Built with: React, Solidity, Ethers.js</h5>
+          <h5>Built with: <u>React,</u> <u>Solidity,</u> <u>Ethers.js</u></h5>
           <div className="project_links">
           <a target="_blank" rel="noopener noreferrer" href="https://www.onesiesworldnft.com/">
             <img className="project_link_logos" src="https://i.imgur.com/aBfy9ee.png" alt="Onesies World Site"></img></a>
@@ -39,7 +39,7 @@ export default function Projects() {
           <br />
           <h5>The script was developed to help elderly individuals in Lower East Side Manhattan fill out a form to contact the mayor of New York City to oppose the construction of a new mega jail in lower manhattan. The user fills out a google form with their name and email, the data is stored on a google sheet, an api is used to fill out the Contact Mayor form on the cities website with a prewritten message by the Welcome to Chinatown team. The script also uses a rotating set of proxies and solves captchas.</h5>
           <br />
-          <h5>Built with: Javascript, Puppeteer.js, 2Captcha API </h5> 
+          <h5>Built with: <u>Javascript,</u> <u>Puppeteer.js,</u> <u>2Captcha API</u></h5> 
         </div>
         <div className="project_card">
           <a target="_blank" rel="noopener noreferrer" href="https://frntr.netlify.app/">
@@ -48,7 +48,7 @@ export default function Projects() {
           <br />
           <h5>FRNTR Furniture is an online furniture store that is built with a React frontend. Users are able to add items to the collection, login and stay logged in using JWT, and add items to a shopping cart</h5>
           <br />
-          <h5>Built with: React, Node, Express, MongoDB</h5>
+          <h5>Built with: <u>React,</u> <u>Node,</u> <u>Express,</u> <u>MongoDB</u></h5>
           <div className="project_links">
           <a target="_blank" rel="noopener noreferrer" href="https://frntr.netlify.app/">
             <img className="project_link_logos" src="https://i.imgur.com/aBfy9ee.png" alt="website"></img></a>
