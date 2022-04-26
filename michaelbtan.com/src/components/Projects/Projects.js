@@ -4,9 +4,9 @@ import './Projects.css'
 export default function Projects() {
 
 
-  const observer = new IntersectionObserver(entries => {
+  // const observer = new IntersectionObserver(entries => {
 
-  });
+  // });
 
   return (
     <div className="projects">
@@ -14,6 +14,25 @@ export default function Projects() {
         <h1>Dev Projects</h1>
       </div>
       <div className="project_cards">
+      <div className="project_card">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.yumeverse.com/">
+            <img className="project_img" src="https://i.imgur.com/jmclJVK.png" alt="Yumeverse NFT" height="150" width="300" /></a>
+          <h2 className="project_title">YUMEVERSE NFT</h2>
+          <br />
+          <h5>Yumeverse is a collection of 7,777 NFTs influenced by dreams and built on the Ethereum blockchain. The first NFT to offer "dreamstate," which allows the owners of token to shift between both a Yume and Akuma NFT</h5>
+          <br />
+          <h5>Minting Dapp, Gas Optimized ERC721A Contract, and Merkle Tree for Whitelist</h5>
+          <br />
+          <h5>Built with: <u>React,</u> <u>Solidity,</u> <u>Ethers.js</u></h5>
+          <div className="project_links">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.yumeverse.com/">
+            <img className="project_link_logos" src="https://i.imgur.com/aBfy9ee.png" alt="Yumeverse Site"></img></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://rinkeby.etherscan.io/address/0xBb8A7Fc36845943dc8db19caDe2C555171a19b28#code">
+            <img className="project_link_logos" src="https://i.imgur.com/f9iqqoB.png" alt="Etherscan"></img></a>
+          <a target="_blank" rel="noopener noreferrer" href="/">
+            <img className="project_link_logos" src="https://i.imgur.com/Edd62oy.png" alt="Opensea"></img></a>
+          </div>
+        </div>
         <div className="project_card">
           <a target="_blank" rel="noopener noreferrer" href="https://www.onesiesworldnft.com/">
             <img className="project_img" src="https://i.imgur.com/IXAkKgB.png" alt="onesies world nft" height="150" width="300" /></a>

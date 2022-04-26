@@ -16,13 +16,13 @@ export default function About() {
             <img className="about_img" src="https://i.imgur.com/Lr3jT75.jpg" alt="profile pic" />
           </div>
           <div>
-            <img className="about_img" src="https://i.imgur.com/Ygb0m3S.png" alt="profile pic" />
+            <img className="about_img" src="https://lh3.googleusercontent.com/YxPGDDoWf0TLMEqFjwb1xIHRQ3ZMcPtdLFuGK8IOKM82WokSrat_QrMOL-FSzd6cLeNyy6X6Mzwjmm1lEqJtW8ok-1kvFG1ZMKrx=w600" alt="profile pic" />
           </div>
           <div>
             <img className="about_img" src="https://i.imgur.com/fD4GXM1.jpg" alt="profile pic" />
           </div>
           <div>
-            <img className="about_img" src="https://i.imgur.com/2L4NMMC.png" alt="profile pic" />
+            <img className="about_img" src="https://lh3.googleusercontent.com/4q5muBB15XjM6ZL1_73oAn1Lkhg5vdd_IXk1V25ybSvuzAOhLn1x-saH-K-OuAPsvTVKEpHp2AF2HDRqE8ZQ4bmyBy0-cJttOg_hPQ=w600" alt="profile pic" />
           </div>
         </Carousel>
         <div className="about_info">
