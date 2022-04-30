@@ -66,8 +66,8 @@ export default function NavMobile() {
             <img className="social_logos" src="https://i.imgur.com/pdBRIGi.png" alt="Linkedin"></img></a>
           <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://github.com/michaelbtan">
             <img className="social_logos" src="https://i.imgur.com/fnifTNN.png" alt="Github"></img></a>
-          <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://twitter.com/tanmichael74">
-            <img className="social_logos" src="https://i.imgur.com/DhUGreh.png" alt="Twitter"></img></a>
+          {/* <a onClick={toggleNav} target="_blank" rel="noopener noreferrer" href="https://twitter.com/tanmichael74">
+            <img className="social_logos" src="https://i.imgur.com/DhUGreh.png" alt="Twitter"></img></a> */}
           </div>
         </div>      
         }
