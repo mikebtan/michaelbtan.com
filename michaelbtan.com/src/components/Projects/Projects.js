@@ -75,6 +75,21 @@ export default function Projects() {
             <img className="project_link_logos" src="https://i.imgur.com/UQ7i7Gy.png" alt="Github FRNTR"></img></a>
           </div>
         </div>
+        <div className="project_card">
+          <a target="_blank" rel="noopener noreferrer" href="https://michaelbtan.github.io/Pokemon-TCG-Database/">
+            <img className="project_img" src="https://i.imgur.com/NDHr8m1.png" alt="FRNTR Furniture" height="150" width="300" /></a>
+          <h2>Unofficial Pokemon Card Database</h2>
+          <br />
+          <h5>The Unofficial Pokemon Card Database allows you to search for all the cards of your favorite Pokemon. If you aren't sure what pokemon, you can pull a random pokemon to see all of its available cards. Uses the Official Pokemon TCG API</h5>
+          <br />
+          <h5>Built with: <u> Vanilla Javascript,</u> <u>Node,</u> <u>Pokemon TCG API</u></h5>
+          <div className="project_links">
+          <a target="_blank" rel="noopener noreferrer" href="https://michaelbtan.github.io/Pokemon-TCG-Database/">
+            <img className="project_link_logos" src="https://i.imgur.com/aBfy9ee.png" alt="website"></img></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/michaelbtan/Pokemon-TCG-Database">
+            <img className="project_link_logos" src="https://i.imgur.com/UQ7i7Gy.png" alt="Pokemon TCG Databse"></img></a>
+        </div>
+      </div>
       </div>
     </div>
   )
